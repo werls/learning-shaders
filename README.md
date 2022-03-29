@@ -2,7 +2,7 @@
 
 A collection of links for anyone looking to start learning to code shaders.
 
-# Websites
+## Websites
 
 The book of shaders
 [https://thebookofshaders.com/](https://thebookofshaders.com/)
@@ -10,27 +10,26 @@ The book of shaders
 p5.js shaders
 [https://itp-xstory.github.io/p5js-shaders/](https://itp-xstory.github.io/p5js-shaders/#/)
 
-# Videos
+## Videos
 
-Shader Tutorial Series
-(Lewis Lepton)
+Shader Tutorial Series  
+(Lewis Lepton)  
 [https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7)
 
-Creating Shaders on the Web for Beginners!
-(Liam Egam and Alex Trost on FrontendHorse Livestreams)
+Creating Shaders on the Web for Beginners!  
+(Liam Egam and Alex Trost on FrontendHorse Livestreams)  
 [https://www.youtube.com/watch?v=_ziWCZFqvak&t=8145s](https://www.youtube.com/watch?v=_ziWCZFqvak&t=8145s)
 
-Building Shaders with GLSL - w/ ilithya
-(ilithya and Alex Trost on FrontendHorse Livestreams)
-
+Building Shaders with GLSL - w/ ilithya  
+(ilithya and Alex Trost on FrontendHorse Livestreams)  
 [https://www.youtube.com/watch?v=6MwWOm23WfI](https://www.youtube.com/watch?v=6MwWOm23WfI)
 
-Coding Water Ripples with Shaders and p5.js
-(Daniel Shiffman / The Coding Train)
+Coding Water Ripples with Shaders and p5.js  
+(Daniel Shiffman / The Coding Train)  
 [https://www.youtube.com/watch?v=5lIl5F1hpTE](https://www.youtube.com/watch?v=5lIl5F1hpTE)
 
-# Github
+## Github
 
-P5.js Shader Examples
-(Adam Ferriss)
+P5.js Shader Examples  
+([https://github.com/aferriss](Adam Ferriss)  
 [https://github.com/aferriss/p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
