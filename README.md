@@ -9,7 +9,7 @@ The book of shaders
 [https://thebookofshaders.com/](https://thebookofshaders.com/)
 
 p5.js shaders  
-[https://github.com/kcconch](Casey Conchinha) and [http://www.louiselessel.com/](Loise Lessél)  
+[Casey Conchinha](https://github.com/kcconch) and [Loise Lessél](http://www.louiselessel.com/)  
 [https://itp-xstory.github.io/p5js-shaders/](https://itp-xstory.github.io/p5js-shaders/#/)
 
 ## Videos
