@@ -1,6 +1,6 @@
 # Learning Shaders
 
-A collection of links for anyone looking to start learning to code shaders.
+A collection of links for anyone who wants to learn how to code shaders.
 
 ## Websites
 
