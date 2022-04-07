@@ -31,7 +31,7 @@ A collection of links for anyone who wants to learn how to code shaders.
 [https://www.youtube.com/watch?v=5lIl5F1hpTE](https://www.youtube.com/watch?v=5lIl5F1hpTE)
 
 **Shader Coding: Truchet Pattern Explained!**  
-*The Art of Code*
+*The Art of Code*  
 [https://www.youtube.com/watch?v=2R7h76GoIJM&t=1747s](https://www.youtube.com/watch?v=2R7h76GoIJM&t=1747s)
 
 ## Github
