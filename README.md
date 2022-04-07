@@ -34,7 +34,7 @@ A collection of links for anyone who wants to learn how to code shaders.
 *The Art of Code*  
 [https://www.youtube.com/watch?v=2R7h76GoIJM&t=1747s](https://www.youtube.com/watch?v=2R7h76GoIJM&t=1747s)
 
-## Github
+## Github Repositories
 
 **P5.js Shader Examples**  
 *[Adam Ferriss](https://github.com/aferriss)*  
