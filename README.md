@@ -35,7 +35,7 @@ A collection of links to anyone who wants to learn how to code shaders.
 [https://www.youtube.com/watch?v=2R7h76GoIJM&t=1747s](https://www.youtube.com/watch?v=2R7h76GoIJM&t=1747s)
 
 **CuriouslyMinded**  
-*[Eliza Struthers-Jobin](https://elizasj.com/) and [ilithya](https://www.ilithya.rocks/) + guests]*  
+*[Eliza Struthers-Jobin](https://elizasj.com/) and [ilithya](https://www.ilithya.rocks/) + guests*  
 [https://www.youtube.com/@curiouslyminded](https://www.youtube.com/@curiouslyminded)  
 
 ## Github Repositories
