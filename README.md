@@ -8,6 +8,10 @@ A collection of links to anyone who wants to learn how to code shaders.
 *Patricio Gonzalez Vivo and Jen Lowe*  
 [https://thebookofshaders.com/](https://thebookofshaders.com/)
 
+**Inigo Quilez articles**  
+*Inigo Quilez*  
+[https://iquilezles.org/articles/](https://iquilezles.org/articles/)  
+
 **p5.js shaders**  
 *[Casey Conchinha](https://github.com/kcconch) and [Loise Lessél](http://www.louiselessel.com/)*  
 [https://itp-xstory.github.io/p5js-shaders/](https://itp-xstory.github.io/p5js-shaders/#/)
