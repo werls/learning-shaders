@@ -24,7 +24,7 @@ A collection of links to anyone who wants to learn how to code shaders.
 
 **Creating Shaders on the Web for Beginners!**  
 *Liam Egam and Alex Trost on FrontendHorse Livestreams*  
-[https://www.youtube.com/watch?v=_ziWCZFqvak&t=8145s](https://www.youtube.com/watch?v=_ziWCZFqvak&t=8145s)
+[https://www.youtube.com/watch?v=_ziWCZFqvak](https://www.youtube.com/watch?v=_ziWCZFqvak)
 
 **Building Shaders with GLSL - w/ ilithya**  
 *ilithya and Alex Trost on FrontendHorse Livestreams*  
