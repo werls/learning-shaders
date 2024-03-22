@@ -43,7 +43,7 @@ A collection of links to anyone who wants to learn how to code shaders.
 [https://www.youtube.com/@curiouslyminded](https://www.youtube.com/@curiouslyminded)  
 
 **An Introduction to Shader Art Coding**  
-*[kishimisu](https://www.youtube.com/@kishimisu)  
+*[kishimisu](https://www.youtube.com/@kishimisu)*  
 [https://www.youtube.com/watch?v=f4s1h2YETNY](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
 ## Github Repositories
@@ -54,8 +54,8 @@ A collection of links to anyone who wants to learn how to code shaders.
 
 ## Online Editors  
 
-*Shadertoy*  
+**Shadertoy**  
 [https://www.shadertoy.com](https://www.shadertoy.com)
 
-*The Book of Shaders Editor*  
+**The Book of Shaders Editor**  
 [htts://editor.thebookofshaders.com](htts://editor.thebookofshaders.com)
