@@ -42,8 +42,20 @@ A collection of links to anyone who wants to learn how to code shaders.
 *[Eliza Struthers-Jobin](https://elizasj.com/) and [ilithya](https://www.ilithya.rocks/) + guests*  
 [https://www.youtube.com/@curiouslyminded](https://www.youtube.com/@curiouslyminded)  
 
+**An Introduction to Shader Art Coding**  
+*[kishimisu](https://www.youtube.com/@kishimisu)  
+[https://www.youtube.com/watch?v=f4s1h2YETNY](https://www.youtube.com/watch?v=f4s1h2YETNY)
+
 ## Github Repositories
 
 **P5.js Shader Examples**  
 *[Adam Ferriss](https://github.com/aferriss)*  
 [https://github.com/aferriss/p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
+
+## Online Editors  
+
+*Shadertoy*  
+[https://www.shadertoy.com](https://www.shadertoy.com)
+
+*The Book of Shaders Editor*  
+[htts://editor.thebookofshaders.com](htts://editor.thebookofshaders.com)
